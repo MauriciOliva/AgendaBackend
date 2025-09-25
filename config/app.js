@@ -14,7 +14,7 @@ import AuthRouter from "../src/Auth/auth.routes.js"
 const config = (app) => {
     const corsOptions = {
         origin: [
-            'https://agenda-six-ecru.vercel.app',  // Tu frontend CORRECTO
+            'https://agenda-frontend-eta.vercel.app',  // Tu frontend CORRECTO
             'https://agenda-backend-silk.vercel.app', 
             'http://localhost:5173'              
         ],
