@@ -13,8 +13,8 @@ const config = (app) => {
     // ✅ CONFIGURACIÓN CORRECTA DE CORS
     const corsOptions = {
         origin: [
-            'https://seguimiento-cia.vercel.app', 
-            'http://seguimiento-cia-back.vercel.app',
+            'https://agenda-backend-silk.vercel.app', 
+            'http://agenda-six-ecru.vercel.app',
             'http://localhost:5173',              
             'http://localhost:3605'               
         ],
